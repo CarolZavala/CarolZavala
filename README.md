@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de [Tu Nombre]</title>
+    <title>Perfil de Carol Zavala</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -37,7 +37,7 @@
 <body>
 
 <header>
-    <h1>¡Hola! 👋 Soy [Tu Nombre]</h1>
+    <h1>¡Hola!👋 Soy Carol </h1>
     <img src="URL_DE_TU_BANNER" alt="Banner" style="max-width: 100%; height: auto;">
 </header>
 
@@ -59,9 +59,9 @@
 <section>
     <h2>Habilidades</h2>
     <ul>
-        <li><strong>Lenguajes de programación:</strong> Python, JavaScript, [otros]</li>
-        <li><strong>Frameworks:</strong> React, Django, [otros]</li>
-        <li><strong>Herramientas:</strong> Git, Docker, [otros]</li>
+        <li><strong>Lenguajes de programación:</strong> JavaScript</li>
+        <li><strong>Frameworks:</strong> React, Vue</li>
+        <li><strong>Herramientas:</strong> Git</li>
     </ul>
 </section>
 
