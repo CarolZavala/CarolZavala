@@ -9,7 +9,7 @@
 
 <header>
     <h1>¡Hola!👋 Soy Carol </h1>
-    <img src="URL_DE_TU_BANNER" alt="Banner" style="max-width: 100%; height: auto;">
+    <img src="https://www.canva.com/design/DAGRn1uL8-E/w_WWvlLRf6l2FmtyUE4FKg/watch?utm_content=DAGRn1uL8-E&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Banner" style="max-width: 100%; height: auto;">
 </header>
 
 <section>
