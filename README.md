@@ -10,23 +10,23 @@
             line-height: 1.6;
             margin: 0;
             padding: 20px;
-            background-color: #f4f4f4; /* Cambia el color de fondo aquí */
+            background-color: #f4f4f4; 
         }
         header {
             text-align: center;
             margin-bottom: 20px;
         }
         h1 {
-            color: #333; /* Cambia el color del título aquí */
+            color: #333;
         }
         section {
-            background: #fff; /* Cambia el color de fondo de las secciones aquí */
+            background: #fff; 
             padding: 20px;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         a {
-            color: #007BFF; /* Cambia el color de los enlaces aquí */
+            color: #007BFF;
             text-decoration: none;
         }
         a:hover {
@@ -43,16 +43,16 @@
 
 <section>
     <h2>Sobre Mí</h2>
-    <p>Soy [tu descripción breve: profesión, intereses, etc.]. Me apasiona [tus pasiones o áreas de interés].</p>
+    <p>Soy Ingeniera en tic´s con especialidad en desarrollo de aplicaciones . Me apasiona el desarrollo, el diseño y sobre todo aprender cosas nuevas.</p>
 </section>
 
 <section>
     <h2>Redes Sociales</h2>
     <ul>
         <li><a href="https://www.linkedin.com/in/carol-zavala/">LinkedIn</a></li>
-        <li><a href="">GitHub</a></li>
+        <li><a href="https://github.com/CarolZavala">GitHub</a></li>
         <li><a href="https://x.com/caro_zav">Twitter</a></li>
-        <li><a href="URL_DE_TU_INSTAGRAM">Instagram</a></li>
+        <li><a href="">Instagram</a></li>
     </ul>
 </section>
 
@@ -75,7 +75,7 @@
 
 <section>
     <h2>Contacto</h2>
-    <p>Puedes contactarme a través de <a href="mailto:tu_email@ejemplo.com">mi email</a>.</p>
+    <p>Puedes contactarme a través de <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.</p>
 </section>
 
 </body>
