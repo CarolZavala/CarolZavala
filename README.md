@@ -12,6 +12,9 @@
     <h1>¡Hola! 👋 Soy Carol</h1>
 </header>
 
+![GIF Ejemplo](https://github.com/CarolZavala/CarolZavala/blob/3b107ff27d762784b13f3b6e14e0b26e57546f17/Carol%20Zavala.gif)
+
+
 <section>
     <h2>Sobre Mí</h2>
     <p>Soy Ingeniera en TIC’s con especialidad en desarrollo de aplicaciones. Me apasiona el desarrollo, el diseño, y sobre todo aprender cosas nuevas.</p>
