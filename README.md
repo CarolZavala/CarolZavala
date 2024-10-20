@@ -76,7 +76,7 @@
     <p>Puedes contactarme a través de <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.</p>
 </section>
 
-![GIFT Cry](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl2eTlzcm85cG5oNmluN2xwYWdneXc3d3JkeHNpamFwazQycnZycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CvbzcnrrCDc1KfYo4c/giphy.webp)
+![GIFT BUNNY](https://media.tenor.com/nNNpAboNysUAAAAj/psybirdb1oom.gif)
 
 
 </body>
