@@ -12,7 +12,7 @@
     <h1>¡Hola! 👋 Soy Carol</h1>
 </header>
 
-![GIF Ejemplo](https://github.com/CarolZavala/CarolZavala/blob/3b107ff27d762784b13f3b6e14e0b26e57546f17/Carol%20Zavala.gif)
+![GIF Ejemplo](https://github.com/CarolZavala/CarolZavala/blob/0d8f756b41426d0b143a83a131fa7b6e70f2293c/Carol%20Zavala%20(1).gif)
 
 
 <section>
