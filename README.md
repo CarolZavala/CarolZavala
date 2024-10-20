@@ -23,9 +23,18 @@
     <h2>Redes Sociales</h2>
 
 ![Computer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY0dTEzczNiY3B4aGVnMTJvYmxvcXZ6NDg4eWd6aG11bHo3OXlqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hK4Z17CdUDKVhMazuC/giphy.webp)
-[![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png)](https://www.linkedin.com/in/carol-zavala/)  
-[![GitHub](https://cdn-icons-png.flaticon.com/32/733/733553.png)](https://github.com/CarolZavala)  
-[![Twitter](https://cdn-icons-png.flaticon.com/32/733/733579.png)](https://x.com/caro_zav)  
+[![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png)](https://www.linkedin.com/in/carol-zavala/)
+
+<h4>LinkedIn</h4>
+
+[![GitHub](https://cdn-icons-png.flaticon.com/32/733/733553.png)](https://github.com/CarolZavala)
+
+<h4>Twitter</h4>
+
+[![Twitter](https://cdn-icons-png.flaticon.com/32/733/733579.png)](https://x.com/caro_zav)
+
+<h4>Instagram</h4>
+
 [![Instagram](https://cdn-icons-png.flaticon.com/32/1384/1384063.png)](#)
 
 </section>
