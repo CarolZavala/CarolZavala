@@ -19,8 +19,6 @@
 
 <section>
     <h2>Redes Sociales</h2>
-   ## Redes Sociales
-
 [![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png)](https://www.linkedin.com/in/carol-zavala/)  
 [![GitHub](https://cdn-icons-png.flaticon.com/32/733/733553.png)](https://github.com/CarolZavala)  
 [![Twitter](https://cdn-icons-png.flaticon.com/32/733/733579.png)](https://x.com/caro_zav)  
