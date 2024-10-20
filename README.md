@@ -14,7 +14,6 @@
 
 ![GIF Ejemplo](https://github.com/CarolZavala/CarolZavala/blob/0d8f756b41426d0b143a83a131fa7b6e70f2293c/Carol%20Zavala%20(1).gif)
 
-
 <section>
     <h2>Sobre Mí</h2>
     <p>Soy Ingeniera en TIC’s con especialidad en desarrollo de aplicaciones. Me apasiona el desarrollo, el diseño, y sobre todo aprender cosas nuevas.</p>
@@ -22,7 +21,8 @@
 
 <section>
     <h2>Redes Sociales</h2>
-    
+
+![Computer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY0dTEzczNiY3B4aGVnMTJvYmxvcXZ6NDg4eWd6aG11bHo3OXlqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hK4Z17CdUDKVhMazuC/giphy.webp)
 [![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png)](https://www.linkedin.com/in/carol-zavala/)  
 [![GitHub](https://cdn-icons-png.flaticon.com/32/733/733553.png)](https://github.com/CarolZavala)  
 [![Twitter](https://cdn-icons-png.flaticon.com/32/733/733579.png)](https://x.com/caro_zav)  
