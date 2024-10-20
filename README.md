@@ -28,6 +28,8 @@
 
 [![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png)](https://www.linkedin.com/in/carol-zavala/)
 
+<h4>GitHub</h4>
+
 [![GitHub](https://cdn-icons-png.flaticon.com/32/733/733553.png)](https://github.com/CarolZavala)
 
 <h4>Twitter</h4>
