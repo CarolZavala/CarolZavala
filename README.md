@@ -61,7 +61,7 @@
 </body>
 </html>
 
-<style>
+ <style>
         body {
             font-family: 'Arial', sans-serif;
             margin: 0;
@@ -113,27 +113,29 @@
             text-decoration: underline;
         }
 
+        /* Estilos ajustados para los botones sociales */
         .social-buttons {
             display: flex;
             justify-content: center;
-            gap: 15px;
+            gap: 10px;
             margin-top: 10px;
         }
 
         .social-button {
-            display: inline-block;
-            width: 50px;
-            height: 50px;
+            width: 40px;
+            height: 40px;
             background-color: #fff;
             border-radius: 50%;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
             transition: transform 0.2s, background-color 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
         .social-button img {
-            width: 30px;
-            height: 30px;
-            margin: 10px;
+            width: 20px;
+            height: 20px;
         }
 
         .social-button:hover {
