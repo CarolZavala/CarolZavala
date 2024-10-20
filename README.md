@@ -21,26 +21,38 @@
 
 <section>
     <h2>Redes Sociales</h2>
+  <img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY0dTEzczNiY3B4aGVnMTJvYmxvcXZ6NDg4eWd6aG11bHo3OXlqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hK4Z17CdUDKVhMazuC/giphy.webp" 
+    alt="Computer" 
+    style="width: 300px; height: auto;" 
+  />
 
-![Computer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY0dTEzczNiY3B4aGVnMTJvYmxvcXZ6NDg4eWd6aG11bHo3OXlqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hK4Z17CdUDKVhMazuC/giphy.webp)
-
-<h4>LinkedIn</h4>
-
-[![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png)](https://www.linkedin.com/in/carol-zavala/)
-
-<h4>GitHub</h4>
-
-[![GitHub](https://cdn-icons-png.flaticon.com/32/733/733553.png)](https://github.com/CarolZavala)
-
-<h4>Twitter</h4>
-
-[![Twitter](https://cdn-icons-png.flaticon.com/32/733/733579.png)](https://x.com/caro_zav)
-
-<h4>Instagram</h4>
-
-[![Instagram](https://cdn-icons-png.flaticon.com/32/1384/1384063.png)](#)
-
+  <table style="margin: 20px auto; border-collapse: collapse; text-align: center;">
+    <tr>
+      <td style="padding: 10px;">
+        <a href="https://www.linkedin.com/in/carol-zavala/">
+          <img src="https://cdn-icons-png.flaticon.com/32/174/174857.png" alt="LinkedIn" />
+        </a>
+      </td>
+      <td style="padding: 10px;">
+        <a href="https://github.com/CarolZavala">
+          <img src="https://cdn-icons-png.flaticon.com/32/733/733553.png" alt="GitHub" />
+        </a>
+      </td>
+      <td style="padding: 10px;">
+        <a href="https://x.com/caro_zav">
+          <img src="https://cdn-icons-png.flaticon.com/32/733/733579.png" alt="Twitter" />
+        </a>
+      </td>
+      <td style="padding: 10px;">
+        <a href="#">
+          <img src="https://cdn-icons-png.flaticon.com/32/1384/1384063.png" alt="Instagram" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </section>
+
 
 <section>
     <h2>Habilidades</h2>
