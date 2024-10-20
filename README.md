@@ -19,20 +19,13 @@
 
 <section>
     <h2>Redes Sociales</h2>
-    <div class="social-buttons">
-        <a href="https://www.linkedin.com/in/carol-zavala/" class="social-button" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
-        </a>
-        <a href="https://github.com/CarolZavala" class="social-button" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub">
-        </a>
-        <a href="https://x.com/caro_zav" class="social-button" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter">
-        </a>
-        <a href="#" class="social-button" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram">
-        </a>
-    </div>
+   ## Redes Sociales
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png)](https://www.linkedin.com/in/carol-zavala/)  
+[![GitHub](https://cdn-icons-png.flaticon.com/32/733/733553.png)](https://github.com/CarolZavala)  
+[![Twitter](https://cdn-icons-png.flaticon.com/32/733/733579.png)](https://x.com/caro_zav)  
+[![Instagram](https://cdn-icons-png.flaticon.com/32/1384/1384063.png)](#)
+
 </section>
 
 <section>
