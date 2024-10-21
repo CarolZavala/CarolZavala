@@ -22,22 +22,22 @@
 <section>
     <h2>Redes Sociales</h2>
     <tr>
-      <td style="padding: 10px;">
+      <td">
         <a href="https://www.linkedin.com/in/carol-zavala/">
           <img src="https://github.com/CarolZavala/CarolZavala/blob/e73b6c787bfd2ad9e2b46ff94ac52c0bf9982a15/LinkedIn.png" alt="LinkedIn" style="width: 40px; height: 40px;" />
         </a>
       </td>
-      <td style="padding: 10px;">
+      <td>
         <a href="https://github.com/CarolZavala">
           <img src="https://github.com/CarolZavala/CarolZavala/blob/b21d0dbe5b0253988677c23b9a4a5256860cfefe/github.png" alt="GitHub" style="width: 40px; height: 40px;" />
         </a>
       </td>
-      <td style="padding: 10px;">
+      <td>
         <a href="https://x.com/caro_zav">
           <img src="https://github.com/CarolZavala/CarolZavala/blob/9905988bbec7bac646b4bf0226d8a04e793dce44/Twitter.png" alt="Twitter" style="width: 40px; height: 40px;" />
         </a>
       </td>
-      <td style="padding: 10px;">
+      <td>
         <a href="#">
           <img src="https://github.com/CarolZavala/CarolZavala/blob/db34ab6f7a33b2dce9690665b28d881958446e58/Instagram.png" alt="Instagram" style="width: 40px; height: 40px;" />
         </a>
@@ -139,6 +139,35 @@
                 </p>
                </td>
         </tr>
+</section>
+
+</section>
+ <!-- Sección de reconocimientos -->
+    <h2>Reconocimientos</h2>
+       <table>
+           <tr>
+               <td>
+                <img src="" alt="Imagen1" style="width: 32px; height: 32px;"  />
+               </td>
+               <td>
+                <p><strong>Rally de innovación Latinoameriocano 2023</strong>
+                 Descripción... 
+                </p>
+               </td>
+            </tr>
+        </table>
+        table>
+           <tr>
+               <td>
+                <img src="" alt="Imagen1" style="width: 32px; height: 32px;"  />
+               </td>
+               <td>
+                <p><strong></strong>
+                 Descripción... 
+                </p>
+               </td>
+            </tr>
+        </table>
 </section>
 
 
