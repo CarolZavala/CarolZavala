@@ -41,7 +41,7 @@
       </td>
       <td style="padding: 10px;">
         <a href="#">
-          <img src="https://cdn-icons-png.flaticon.com/32/1384/1384063.png" alt="Instagram" />
+          <img src="https://github.com/CarolZavala/CarolZavala/blob/db34ab6f7a33b2dce9690665b28d881958446e58/Instagram.png" alt="Instagram" />
         </a>
       </td>
     </tr>
