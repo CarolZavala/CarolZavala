@@ -21,8 +21,6 @@
 
 <section>
     <h2>Redes Sociales</h2>
-
-  <table style="margin: 20px auto; border-collapse: collapse; text-align: center; border: none;">
     <tr>
       <td style="padding: 10px;">
         <a href="https://www.linkedin.com/in/carol-zavala/">
@@ -45,7 +43,6 @@
         </a>
       </td>
     </tr>
-</table>
 </section>
 
 
@@ -66,24 +63,28 @@
     </ul>
 </section>
 
-<section style="display: flex; align-items: center; gap: 10px;">
-  <!-- Ícono de Gmail -->
-  
+ <!-- Sección contacto de Gmail -->
 
-  <!-- Texto de contacto -->
   <div>
     <h2>Contacto</h2>
-      <a href="mailto:carolalexandrazavala@gmail.com" style="display: inline-block;">
-    <img 
-      src="https://github.com/CarolZavala/CarolZavala/blob/7dd3f0b5f66e5b93d70cd556236d7138ff836e08/Gmail.png" 
-      alt="Gmail" 
-      style="width: 32px; height: 32px;" 
-    />
-  </a>
-    <p>
-      Puedes contactarme a través de 
-      <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.
-    </p>
+      <table style="margin: 20px auto; border-collapse: collapse; text-align: center; border: none;">
+           <tr>
+               <td>
+              <a href="mailto:carolalexandrazavala@gmail.com" style="display: inline-block;">
+                <img 
+                  src="https://github.com/CarolZavala/CarolZavala/blob/7dd3f0b5f66e5b93d70cd556236d7138ff836e08/Gmail.png" 
+                  alt="Gmail" 
+                  style="width: 32px; height: 32px;" 
+                />
+              </a>
+               </td>
+               <td>
+                <p>
+                  Puedes contactarme a través de 
+                  <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.
+                </p>
+               </td>
+        </tr>
   </div>
 </section>
 
