@@ -63,7 +63,24 @@
 
 <section>
     <h2>Proyectos Destacados</h2>
-    <ul>
+    <table>
+        <tr>
+            <td><strong>Nombre del proyecto</strong></td><td>Descripción del proyecto</td>
+        </tr>
+        <tr>
+            <td><strong>Periodo del proyecto</strong></td><td>Fecha de inicio/finalización</td>
+        </tr>
+        <tr>
+            <td><strong>Puesto desempeñado</strong></td><td>Nombre del proyecto</td>
+        </tr>
+        <tr>
+            <td><strong> Herramientas empleadas</strong></td><td>Nombre del proyecto</td>
+        </tr>
+        <tr>
+            <td><strong> Enlace al proyecto </strong></td><td></td>
+        </tr>
+    </table>
+       
         <li><strong>[Proyecto 1]</strong>: Breve descripción del proyecto y tecnologías utilizadas. <a href="ENLACE_AL_PROYECTO_1" target="_blank">Ver proyecto</a></li>
         <li><strong>[Proyecto 2]</strong>: Breve descripción del proyecto y tecnologías utilizadas. <a href="ENLACE_AL_PROYECTO_2" target="_blank">Ver proyecto</a></li>
     </ul>
