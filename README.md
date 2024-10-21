@@ -24,7 +24,7 @@
     <tr>
       <td style="padding: 10px;">
         <a href="https://www.linkedin.com/in/carol-zavala/">
-          <img src="https://github.com/CarolZavala/CarolZavala/blob/e73b6c787bfd2ad9e2b46ff94ac52c0bf9982a15/LinkedIn.png" style="width: 40px; height: 40px;" />
+          <img src="https://github.com/CarolZavala/CarolZavala/blob/e73b6c787bfd2ad9e2b46ff94ac52c0bf9982a15/LinkedIn.png" alt="LinkedIn" style="width: 40px; height: 40px;" />
         </a>
       </td>
       <td style="padding: 10px;">
@@ -67,7 +67,6 @@
 
   <div>
     <h2>Contacto</h2>
-      <table style="margin: 20px auto; border-collapse: collapse; text-align: center; border: none;">
            <tr>
                <td>
               <a href="mailto:carolalexandrazavala@gmail.com" style="display: inline-block;">
