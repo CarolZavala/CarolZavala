@@ -77,7 +77,7 @@
             <td><strong> Herramientas empleadas</strong></td><td>Nombre del proyecto</td>
         </tr>
         <tr>
-            <td><strong> Enlace al proyecto </strong></td><td></td>
+            <td><strong> Enlace al proyecto </strong></td><td> <a href="ENLACE_AL_PROYECTO_1" target="_blank">Ver proyecto</a></li></td>
         </tr>
     </table>
        
