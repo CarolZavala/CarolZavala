@@ -62,7 +62,44 @@
 </section>
 
 <section>
-    <h2>Proyectos Destacados</h2>
+    <h2>Proyectos Destacados</h2><img src="https://github.com/CarolZavala/CarolZavala/blob/9f4f25e5fabb1e21accd40def3c5a67b06ec3786/love.png" alt="Love" style="width: 40px; height: 40px;" />
+    <!-- Tabla proyecto 1 -->
+    <table>
+        <tr>
+            <td><strong>Nombre del proyecto</strong></td><td>Descripción del proyecto</td>
+        </tr>
+        <tr>
+            <td><strong>Periodo del proyecto</strong></td><td>Fecha de inicio/finalización</td>
+        </tr>
+        <tr>
+            <td><strong>Puesto desempeñado</strong></td><td>Nombre del proyecto</td>
+        </tr>
+        <tr>
+            <td><strong> Herramientas empleadas</strong></td><td>Nombre del proyecto</td>
+        </tr>
+        <tr>
+            <td><strong> Enlace al proyecto </strong></td><td> <a href="ENLACE_AL_PROYECTO_1" target="_blank">Ver proyecto</a></li></td>
+        </tr>
+    </table>
+    <!-- Tabla proyecto 2 -->
+     <table>
+        <tr>
+            <td><strong>Nombre del proyecto</strong></td><td>Descripción del proyecto</td>
+        </tr>
+        <tr>
+            <td><strong>Periodo del proyecto</strong></td><td>Fecha de inicio/finalización</td>
+        </tr>
+        <tr>
+            <td><strong>Puesto desempeñado</strong></td><td>Nombre del proyecto</td>
+        </tr>
+        <tr>
+            <td><strong> Herramientas empleadas</strong></td><td>Nombre del proyecto</td>
+        </tr>
+        <tr>
+            <td><strong> Enlace al proyecto </strong></td><td> <a href="ENLACE_AL_PROYECTO_1" target="_blank">Ver proyecto</a></li></td>
+        </tr>
+    </table>
+    <!-- Tabla proyecto 3 -->
     <table>
         <tr>
             <td><strong>Nombre del proyecto</strong></td><td>Descripción del proyecto</td>
@@ -81,9 +118,6 @@
         </tr>
     </table>
        
-        <li><strong>[Proyecto 1]</strong>: Breve descripción del proyecto y tecnologías utilizadas. <a href="ENLACE_AL_PROYECTO_1" target="_blank">Ver proyecto</a></li>
-        <li><strong>[Proyecto 2]</strong>: Breve descripción del proyecto y tecnologías utilizadas. <a href="ENLACE_AL_PROYECTO_2" target="_blank">Ver proyecto</a></li>
-    </ul>
 </section>
  <!-- Sección contacto de Gmail -->
     <h2>Contacto</h2>
