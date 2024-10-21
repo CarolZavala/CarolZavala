@@ -26,7 +26,7 @@
     <tr>
       <td style="padding: 10px;">
         <a href="https://www.linkedin.com/in/carol-zavala/">
-          <img src="https://cdn-icons-png.flaticon.com/32/174/174857.png" alt="LinkedIn" />
+          <img src="https://github.com/CarolZavala/CarolZavala/blob/e73b6c787bfd2ad9e2b46ff94ac52c0bf9982a15/LinkedIn.png" alt="LinkedIn" />
         </a>
       </td>
       <td style="padding: 10px;">
