@@ -22,30 +22,30 @@
 <section>
     <h2>Redes Sociales</h2>
 
-  <table style="margin: 20px auto; border-collapse: collapse; text-align: center;">
+  <table style="margin: 20px auto; border-collapse: collapse; text-align: center; border: none;">
     <tr>
       <td style="padding: 10px;">
         <a href="https://www.linkedin.com/in/carol-zavala/">
-          <img src="https://github.com/CarolZavala/CarolZavala/blob/e73b6c787bfd2ad9e2b46ff94ac52c0bf9982a15/LinkedIn.png" alt="LinkedIn" />
+          <img src="https://github.com/CarolZavala/CarolZavala/blob/e73b6c787bfd2ad9e2b46ff94ac52c0bf9982a15/LinkedIn.png" alt="LinkedIn" style="width: 40px; height: 40px;" />
         </a>
       </td>
-      <td style="padding: 10px; height: 10px;">
+      <td style="padding: 10px;">
         <a href="https://github.com/CarolZavala">
-          <img src="https://github.com/CarolZavala/CarolZavala/blob/b21d0dbe5b0253988677c23b9a4a5256860cfefe/github.png" alt="GitHub" />
+          <img src="https://github.com/CarolZavala/CarolZavala/blob/b21d0dbe5b0253988677c23b9a4a5256860cfefe/github.png" alt="GitHub" style="width: 40px; height: 40px;" />
         </a>
       </td>
       <td style="padding: 10px;">
         <a href="https://x.com/caro_zav">
-          <img src="https://github.com/CarolZavala/CarolZavala/blob/9905988bbec7bac646b4bf0226d8a04e793dce44/Twitter.png" alt="Twitter" />
+          <img src="https://github.com/CarolZavala/CarolZavala/blob/9905988bbec7bac646b4bf0226d8a04e793dce44/Twitter.png" alt="Twitter" style="width: 40px; height: 40px;" />
         </a>
       </td>
       <td style="padding: 10px;">
         <a href="#">
-          <img src="https://github.com/CarolZavala/CarolZavala/blob/db34ab6f7a33b2dce9690665b28d881958446e58/Instagram.png" alt="Instagram" />
+          <img src="https://github.com/CarolZavala/CarolZavala/blob/db34ab6f7a33b2dce9690665b28d881958446e58/Instagram.png" alt="Instagram" style="width: 40px; height: 40px;" />
         </a>
       </td>
     </tr>
-  </table>
+</table>
 </section>
 
 
