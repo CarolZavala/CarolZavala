@@ -31,7 +31,7 @@
       </td>
       <td style="padding: 10px; height: 10px;">
         <a href="https://github.com/CarolZavala">
-          <img src="https://github.com/CarolZavala/CarolZavala/blob/35f44e28d01e588418aeaada01faad18c17e4bfb/github.png" alt="GitHub" />
+          <img src="https://github.com/CarolZavala/CarolZavala/blob/b21d0dbe5b0253988677c23b9a4a5256860cfefe/github.png" alt="GitHub" />
         </a>
       </td>
       <td style="padding: 10px;">
