@@ -69,7 +69,7 @@
 <section>
     <h2>Contacto</h2>
      <a href="#" style="padding: 10px;>
-          <img src="gmail.png" alt="Gmail" />
+          <img src="Gmail.png" alt="Gmail" />
         </a>
     <p>Puedes contactarme a través de <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.</p>
 </section>
