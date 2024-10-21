@@ -66,13 +66,26 @@
     </ul>
 </section>
 
-<section>
+<section style="display: flex; align-items: center; gap: 10px;">
+  <!-- Ícono de Gmail -->
+  <a href="mailto:carolalexandrazavala@gmail.com" style="display: inline-block;">
+    <img 
+      src="https://github.com/CarolZavala/CarolZavala/blob/7dd3f0b5f66e5b93d70cd556236d7138ff836e08/Gmail.png" 
+      alt="Gmail" 
+      style="width: 32px; height: 32px;" 
+    />
+  </a>
+
+  <!-- Texto de contacto -->
+  <div>
     <h2>Contacto</h2>
-     <a href="#" style="padding: 10px;>
-          <img src="https://github.com/CarolZavala/CarolZavala/blob/7dd3f0b5f66e5b93d70cd556236d7138ff836e08/Gmail.png" alt="Gmail" />
-        </a>
-    <p>Puedes contactarme a través de <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.</p>
+    <p>
+      Puedes contactarme a través de 
+      <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.
+    </p>
+  </div>
 </section>
+
 
  <img 
     src="https://i.pinimg.com/originals/d4/a0/d5/d4a0d50aa7ca0e560d23c629e5c2712e.gif" 
