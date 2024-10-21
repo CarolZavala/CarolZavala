@@ -29,7 +29,7 @@
           <img src="https://github.com/CarolZavala/CarolZavala/blob/e73b6c787bfd2ad9e2b46ff94ac52c0bf9982a15/LinkedIn.png" alt="LinkedIn" />
         </a>
       </td>
-      <td style="padding: 10px;">
+      <td style="padding: 10px; height: 10px;">
         <a href="https://github.com/CarolZavala">
           <img src="https://github.com/CarolZavala/CarolZavala/blob/35f44e28d01e588418aeaada01faad18c17e4bfb/github.png" alt="GitHub" />
         </a>
