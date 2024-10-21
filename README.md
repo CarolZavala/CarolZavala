@@ -68,17 +68,18 @@
 
 <section style="display: flex; align-items: center; gap: 10px;">
   <!-- Ícono de Gmail -->
-  <a href="mailto:carolalexandrazavala@gmail.com" style="display: inline-block;">
+  
+
+  <!-- Texto de contacto -->
+  <div>
+    <h2>Contacto</h2>
+      <a href="mailto:carolalexandrazavala@gmail.com" style="display: inline-block;">
     <img 
       src="https://github.com/CarolZavala/CarolZavala/blob/7dd3f0b5f66e5b93d70cd556236d7138ff836e08/Gmail.png" 
       alt="Gmail" 
       style="width: 32px; height: 32px;" 
     />
   </a>
-
-  <!-- Texto de contacto -->
-  <div>
-    <h2>Contacto</h2>
     <p>
       Puedes contactarme a través de 
       <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.
