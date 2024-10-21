@@ -71,8 +71,11 @@
     <p>Puedes contactarme a través de <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.</p>
 </section>
 
-![GIFT BEAR](https://i.pinimg.com/originals/d4/a0/d5/d4a0d50aa7ca0e560d23c629e5c2712e.gif)
-
+ <img 
+    src="https://i.pinimg.com/originals/d4/a0/d5/d4a0d50aa7ca0e560d23c629e5c2712e.gif" 
+    alt="GIF Bear" 
+    style="width: 150px; height: auto; position: absolute; right: 10px; top: 10px;"
+  />
 
 </body>
 </html>
