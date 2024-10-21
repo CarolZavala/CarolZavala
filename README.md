@@ -48,11 +48,17 @@
 
 <section>
     <h2>Habilidades</h2>
-    <ul>
-        <li><strong>Lenguajes de programación:</strong> JavaScript</li>
-        <li><strong>Frameworks:</strong> React, Vue</li>
-        <li><strong>Herramientas:</strong> Git</li>
-    </ul>
+    <table>
+    <tr>
+        <td><strong>Lenguajes de programación</strong></td><td>JavaScript</td>
+    </tr>
+    <tr>
+        <td><strong>Frameworks</strong></td><td>React, Vue</td>
+    </tr>
+    <tr>
+        <td><strong>Herramientas</strong></td><td>Git</td>
+    </tr>
+         </table>
 </section>
 
 <section>
@@ -62,10 +68,7 @@
         <li><strong>[Proyecto 2]</strong>: Breve descripción del proyecto y tecnologías utilizadas. <a href="ENLACE_AL_PROYECTO_2" target="_blank">Ver proyecto</a></li>
     </ul>
 </section>
-
  <!-- Sección contacto de Gmail -->
-
-  <div>
     <h2>Contacto</h2>
        <table>
            <tr>
@@ -85,7 +88,6 @@
                 </p>
                </td>
         </tr>
-  </div>
 </section>
 
 
