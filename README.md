@@ -31,7 +31,7 @@
       </td>
       <td style="padding: 10px;">
         <a href="https://github.com/CarolZavala">
-          <img src="https://cdn-icons-png.flaticon.com/32/733/733553.png" alt="GitHub" />
+          <img src="https://github.com/CarolZavala/CarolZavala/blob/35f44e28d01e588418aeaada01faad18c17e4bfb/github.png" alt="GitHub" />
         </a>
       </td>
       <td style="padding: 10px;">
