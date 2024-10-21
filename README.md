@@ -62,7 +62,7 @@
 </section>
 
 <section>
-    <h2>Proyectos Destacados</h2><img src="https://github.com/CarolZavala/CarolZavala/blob/9f4f25e5fabb1e21accd40def3c5a67b06ec3786/love.png" alt="Love" style="width: 40px; height: 40px;" />
+    <h2>Proyectos Destacados</h2>
     <!-- Tabla proyecto 1 -->
     <table>
         <tr>
