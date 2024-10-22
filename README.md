@@ -119,29 +119,6 @@
     </table>
        
 </section>
- <!-- Sección contacto de Gmail -->
- <section>
-    <h2>Contacto</h2>
-         <table>
-           <tr>
-               <td>
-                  <a href="mailto:carolalexandrazavala@gmail.com" style="display: inline-block;">
-                    <img 
-                      src="https://github.com/CarolZavala/CarolZavala/blob/7dd3f0b5f66e5b93d70cd556236d7138ff836e08/Gmail.png" 
-                      alt="Gmail" 
-                      style="width: 32px; height: 32px;" 
-                    />
-                  </a>
-               </td>
-               <td>
-                    <p>
-                      Puedes contactarme a través de 
-                      <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.
-                    </p>
-               </td>
-            </tr>
-        </table>
-</section>
  <!-- Sección de reconocimientos -->
 <section>
     <h2>Reconocimientos</h2>
@@ -170,7 +147,29 @@
             </tr>
         </table>
 </section>
-
+ <!-- Sección contacto de Gmail -->
+ <section>
+    <h2>Contacto</h2>
+         <table>
+           <tr>
+               <td>
+                  <a href="mailto:carolalexandrazavala@gmail.com" style="display: inline-block;">
+                    <img 
+                      src="https://github.com/CarolZavala/CarolZavala/blob/7dd3f0b5f66e5b93d70cd556236d7138ff836e08/Gmail.png" 
+                      alt="Gmail" 
+                      style="width: 32px; height: 32px;" 
+                    />
+                  </a>
+               </td>
+               <td>
+                    <p>
+                      Puedes contactarme a través de 
+                      <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.
+                    </p>
+               </td>
+            </tr>
+        </table>
+</section>
 
  <img 
     src="https://i.pinimg.com/originals/d4/a0/d5/d4a0d50aa7ca0e560d23c629e5c2712e.gif" 
