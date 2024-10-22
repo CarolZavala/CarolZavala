@@ -141,9 +141,8 @@
                </td>
         </tr>
 </section>
-
-</section>
  <!-- Sección de reconocimientos -->
+<section>
     <h2>Reconocimientos</h2>
        <table>
            <tr>
@@ -152,12 +151,12 @@
                </td>
                <td>
                 <p><strong>Conferencia "Gestión del desarrollo en la industria"</strong>
-                 Tuve el placer de participar en las jornadas  
+                 Tuve el placer de participar en las jornadas de actualización de la UABCS en el dia del programador
                 </p>
                </td>
             </tr>
         </table>
-        table>
+        <table>
            <tr>
                <td>
                 <img src="" alt="Imagen1" style="width: 32px; height: 32px;"  />
