@@ -122,7 +122,6 @@
  <!-- Sección contacto de Gmail -->
  <section>
     <h2>Contacto</h2>
-       <table>
            <tr>
                <td>
               <a href="mailto:carolalexandrazavala@gmail.com" style="display: inline-block;">
