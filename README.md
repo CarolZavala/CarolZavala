@@ -126,7 +126,7 @@
            <tr><strong>Conferencia "Gestión del desarrollo en la industria"</strong></tr>
            <tr>
                <td>
-                <img src="https://github.com/CarolZavala/CarolZavala/blob/ba5189574f863fe4c7cd3c96ea8f03e50bfc2697/Recon.jpg" alt="Imagen1" style="width: 32px; height: 32px;"  />
+                <img src="https://github.com/CarolZavala/CarolZavala/blob/ba5189574f863fe4c7cd3c96ea8f03e50bfc2697/Recon.jpg" alt="Imagen1" style="width: 302px; height: 302px;"  />
                </td>
                <td>
                 <p>
