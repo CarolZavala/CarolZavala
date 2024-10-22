@@ -122,23 +122,25 @@
  <!-- Sección contacto de Gmail -->
  <section>
     <h2>Contacto</h2>
+         <table>
            <tr>
                <td>
-              <a href="mailto:carolalexandrazavala@gmail.com" style="display: inline-block;">
-                <img 
-                  src="https://github.com/CarolZavala/CarolZavala/blob/7dd3f0b5f66e5b93d70cd556236d7138ff836e08/Gmail.png" 
-                  alt="Gmail" 
-                  style="width: 32px; height: 32px;" 
-                />
-              </a>
+                  <a href="mailto:carolalexandrazavala@gmail.com" style="display: inline-block;">
+                    <img 
+                      src="https://github.com/CarolZavala/CarolZavala/blob/7dd3f0b5f66e5b93d70cd556236d7138ff836e08/Gmail.png" 
+                      alt="Gmail" 
+                      style="width: 32px; height: 32px;" 
+                    />
+                  </a>
                </td>
                <td>
-                <p>
-                  Puedes contactarme a través de 
-                  <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.
-                </p>
+                    <p>
+                      Puedes contactarme a través de 
+                      <a href="mailto:carolalexandrazavala@gmail.com">mi email</a>.
+                    </p>
                </td>
-        </tr>
+            </tr>
+        </table>
 </section>
  <!-- Sección de reconocimientos -->
 <section>
@@ -158,7 +160,7 @@
         <table>
            <tr>
                <td>
-                <img src="" alt="Imagen1" style="width: 32px; height: 32px;"  />
+                <img src="" alt="Imagen2" style="width: 32px; height: 32px;"  />
                </td>
                <td>
                 <p><strong></strong>
