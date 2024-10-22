@@ -120,6 +120,7 @@
        
 </section>
  <!-- Sección contacto de Gmail -->
+ <section>
     <h2>Contacto</h2>
        <table>
            <tr>
