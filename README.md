@@ -147,11 +147,11 @@
        <table>
            <tr>
                <td>
-                <img src="" alt="Imagen1" style="width: 32px; height: 32px;"  />
+                <img src="https://github.com/CarolZavala/CarolZavala/blob/ba5189574f863fe4c7cd3c96ea8f03e50bfc2697/Recon.jpg" alt="Imagen1" style="width: 32px; height: 32px;"  />
                </td>
                <td>
-                <p><strong>Rally de innovación Latinoameriocano 2023</strong>
-                 Descripción... 
+                <p><strong>Conferencia "Gestión del desarrollo en la industria"</strong>
+                 Tuve el placer de participar en las jornadas  
                 </p>
                </td>
             </tr>
