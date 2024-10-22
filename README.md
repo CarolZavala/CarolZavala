@@ -123,24 +123,26 @@
 <section>
     <h2>Reconocimientos</h2>
        <table>
+           <tr><strong>Conferencia "Gestión del desarrollo en la industria"</strong></tr>
            <tr>
                <td>
                 <img src="https://github.com/CarolZavala/CarolZavala/blob/ba5189574f863fe4c7cd3c96ea8f03e50bfc2697/Recon.jpg" alt="Imagen1" style="width: 32px; height: 32px;"  />
                </td>
                <td>
-                <p><strong>Conferencia "Gestión del desarrollo en la industria"</strong>
+                <p>
                  Tuve el placer de participar en las jornadas de actualización de la UABCS en el dia del programador
                 </p>
                </td>
             </tr>
         </table>
         <table>
+            <tr><strong>Conferencia "Gestión del desarrollo en la industria"</strong></tr>
            <tr>
                <td>
                 <img src="" alt="Imagen2" style="width: 32px; height: 32px;"  />
                </td>
                <td>
-                <p><strong></strong>
+                <p>
                  Descripción... 
                 </p>
                </td>
